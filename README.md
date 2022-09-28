@@ -1,6 +1,7 @@
 # Страница Алексея Казанцева
 
 [Статьи по боевым искусствам](https://kazantsev-a-s.github.io/matheory)
+
 [Сборки карт Славы Завьялова](https://kazantsev-a-s.github.io/slazav-tiles)
 
 Связь с автором:
